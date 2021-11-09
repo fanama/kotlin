@@ -20,4 +20,4 @@ java : https://www.java.com/fr/download/
 
 ## Execute
 
--  > $ java -jar hello.jar
+-  > java -jar hello.jar
