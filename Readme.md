@@ -14,9 +14,17 @@ java : https://www.java.com/fr/download/
 
 - > choco install kotlinc
 
+## gradle
+
+- https://community.chocolatey.org/packages/gradle
+
+## test
+
+- > ./gradlew run
+
 ## BUILD
 
-- > kotlinc *filename.kt* -include-runtime -d *name.jar*
+- > ./gradlew build
 
 ## Execute
 
